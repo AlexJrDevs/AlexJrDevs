@@ -48,4 +48,4 @@ I'm an indie full-stack developer that is driven by the ever lasting learning pr
 
 
 [website]: https://fkcodes.com
-[youtube]: https://youtube.com/gooey_gamedev
+[youtube]: https://youtube.com/@GooeyDev?view_as=subscriber?sub_confirmation=1
