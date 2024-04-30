@@ -1,6 +1,6 @@
 # 😎 AlexJr Devs
 
-**`Active Learner (Developer/Creator/Innovator)`**
+**`Forever Learner (Developer/Creator/Innovator)`**
 
 I'm an indie full-stack developer that is driven by the ever lasting learning process of coding. Each project is built from the ground up, from planning to distrubution, aimed to solve our real life problems with efficiency. Join me on my YouTube channel "[AlexDev][youtube]" as we embark on this journey together, making our digital world not just functional, but truly exceptional.
 
