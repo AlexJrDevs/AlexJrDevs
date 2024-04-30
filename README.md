@@ -1,6 +1,12 @@
 # 😎 Alex Jr Devs
 
-**`Jack of all trades (Developer/Creator/Innovator)`**
+**`Active Learner (Developer/Creator/Innovator)`**
+
+![image](https://github.com/AlexJrDevs/AlexJrDevs/assets/75580147/41297b3f-8a73-4073-9b6a-83217fdb61b9)
+
+
+I'm an indie full-stack developer that is driven by the ever lasting learning process of coding. Each project is built from the ground up, from planning to distrubution, aimed to solve our real life problems with efficiency. Join me on my YouTube channel "channel" as we embark on this journey together, making our digital world not just functional, but truly exceptional.
+
 <!--
 **AlexJrDevs/AlexJrDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
