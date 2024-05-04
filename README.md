@@ -2,7 +2,7 @@
 
 **`Forever Learner (Developer/Creator/Innovator)`**
 
-I'm an indie full-stack developer that is driven by the ever lasting learning process of coding. Each project is built from the ground up, from planning to distrubution, aimed to solve our virtual problems with efficiency. Join me on my YouTube channel "[AlexJrDev][youtube]", making our digital world not just functional, but truly exceptional.
+I'm an indie full-stack developer that is driven by the ever lasting learning process of coding. Each project is built from the ground up, from planning to distrubution, aimed to solve our virtual problems with efficiency. Join me on my YouTube channel "[AlexJrDevs][youtube]", making our digital world not just functional, but truly exceptional.
 
    <p align="left">
      <a href="https://fkcodes.com">
