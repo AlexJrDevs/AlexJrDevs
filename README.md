@@ -37,7 +37,6 @@ I'm an indie full-stack developer that is driven by the ever lasting learning pr
 
 <br />
 <br />
-
 #
 
 ### 📊 Stats
